@@ -1,0 +1,41 @@
+sales_rep_id,first_name,last_name,territory_id,hire_date,employment_status
+1,Arjun,Khan,1,2024-10-08,On Leave
+2,Zoya,Malhotra,2,2025-05-21,Active
+3,Nisha,Reddy,3,2020-09-10,Active
+4,Rehan,Singh,4,2022-04-10,On Leave
+5,Kabir,Kapoor,5,2019-02-04,Active
+6,Rehan,Joshi,6,2025-07-15,Active
+7,Zoya,Sen,7,2024-09-24,Active
+8,Meera,Sen,8,2024-06-20,On Leave
+9,Zoya,Reddy,9,2020-09-15,On Leave
+10,Sana,Rao,10,2019-03-14,On Leave
+11,Kunal,Rao,11,2023-03-02,Active
+12,Ananya,Mehta,12,2022-10-11,Active
+13,Vivaan,Malhotra,13,2020-03-22,Active
+14,Aarav,Joshi,14,2022-01-10,Active
+15,Aditya,Rao,15,2024-12-16,On Leave
+16,Ishaan,Rao,16,2025-10-23,Active
+17,Kabir,Iyer,1,2024-07-02,Active
+18,Aditya,Patel,2,2020-02-08,Active
+19,Maya,Iyer,3,2020-08-27,On Leave
+20,Tara,Khan,4,2021-02-06,On Leave
+21,Vivaan,Rao,5,2022-06-05,Active
+22,Diya,Patel,6,2024-02-02,Active
+23,Maya,Reddy,7,2019-08-27,Active
+24,Ananya,Joshi,8,2024-05-13,On Leave
+25,Tara,Khan,9,2023-06-06,Active
+26,Diya,Rao,10,2021-07-05,Active
+27,Zoya,Joshi,11,2021-06-28,On Leave
+28,Kunal,Singh,12,2024-02-27,Active
+29,Aditya,Singh,13,2025-05-29,Active
+30,Ananya,Malhotra,14,2020-01-09,Active
+31,Dev,Bose,15,2024-03-06,Active
+32,Sana,Singh,16,2025-03-14,Active
+33,Ananya,Rao,1,2022-10-14,Active
+34,Ananya,Singh,2,2022-01-25,Active
+35,Diya,Sharma,3,2025-03-08,Active
+36,Sana,Das,4,2020-05-29,Active
+37,Nisha,Khan,5,2019-09-23,Active
+38,Kiara,Reddy,6,2023-10-19,Active
+39,Ira,Nair,7,2022-07-26,On Leave
+40,Rohan,Sen,8,2024-12-13,Active

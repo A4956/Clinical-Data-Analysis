@@ -1,0 +1,1201 @@
+prescription_id,doctor_id,product_id,prescription_date,prescribed_units,prescription_channel,prescription_status
+1,36,4,2026-10-08,13,Retail Pharmacy,Fulfilled
+2,147,24,2024-06-13,8,Specialty Pharmacy,Fulfilled
+3,140,4,2024-09-26,23,Retail Pharmacy,Fulfilled
+4,180,9,2026-07-12,27,Specialty Pharmacy,Pending
+5,71,2,2024-12-17,3,Retail Pharmacy,Cancelled
+6,46,18,2026-02-14,37,Retail Pharmacy,Cancelled
+7,50,16,2024-02-03,25,Retail Pharmacy,Fulfilled
+8,123,8,2025-05-31,9,Hospital,Fulfilled
+9,79,24,2025-10-16,36,Retail Pharmacy,Fulfilled
+10,127,20,2024-12-25,28,Retail Pharmacy,Pending
+11,86,15,2024-07-15,34,Hospital,Fulfilled
+12,39,15,2024-05-03,27,Retail Pharmacy,Pending
+13,43,7,2024-08-30,27,Hospital,Fulfilled
+14,110,14,2025-12-13,33,Specialty Pharmacy,Fulfilled
+15,89,1,2025-11-01,30,Hospital,Fulfilled
+16,129,24,2024-09-12,10,Hospital,Fulfilled
+17,122,18,2024-10-24,26,Retail Pharmacy,Fulfilled
+18,94,19,2024-03-03,33,Specialty Pharmacy,Fulfilled
+19,148,18,2024-11-27,4,Specialty Pharmacy,Fulfilled
+20,174,18,2024-07-08,40,Hospital,Fulfilled
+21,73,3,2025-11-12,36,Retail Pharmacy,Fulfilled
+22,97,24,2024-11-17,19,Hospital,Fulfilled
+23,139,13,2026-07-14,17,Retail Pharmacy,Fulfilled
+24,17,16,2024-12-04,5,Hospital,Fulfilled
+25,162,3,2024-09-12,40,Specialty Pharmacy,Fulfilled
+26,102,18,2026-06-13,31,Specialty Pharmacy,Pending
+27,159,18,2026-03-26,34,Retail Pharmacy,Fulfilled
+28,159,18,2025-09-18,22,Hospital,Fulfilled
+29,31,5,2026-09-26,27,Specialty Pharmacy,Fulfilled
+30,89,3,2026-07-21,32,Specialty Pharmacy,Fulfilled
+31,103,14,2024-06-05,40,Hospital,Fulfilled
+32,115,12,2024-01-17,1,Retail Pharmacy,Cancelled
+33,139,16,2026-05-21,32,Hospital,Pending
+34,175,6,2025-12-07,29,Specialty Pharmacy,Fulfilled
+35,123,6,2026-04-17,32,Hospital,Fulfilled
+36,31,7,2024-03-03,2,Hospital,Fulfilled
+37,84,2,2024-05-20,14,Retail Pharmacy,Fulfilled
+38,75,1,2026-02-08,19,Specialty Pharmacy,Fulfilled
+39,74,4,2025-03-25,36,Retail Pharmacy,Fulfilled
+40,47,5,2026-07-21,26,Retail Pharmacy,Pending
+41,25,9,2025-05-21,13,Specialty Pharmacy,Fulfilled
+42,164,4,2025-11-07,35,Retail Pharmacy,Fulfilled
+43,22,14,2025-11-25,29,Hospital,Fulfilled
+44,81,16,2026-02-04,19,Retail Pharmacy,Fulfilled
+45,92,19,2024-03-26,9,Hospital,Pending
+46,82,3,2025-06-11,7,Retail Pharmacy,Fulfilled
+47,177,19,2024-04-27,18,Retail Pharmacy,Fulfilled
+48,28,5,2026-04-24,37,Hospital,Fulfilled
+49,66,1,2024-03-05,31,Specialty Pharmacy,Fulfilled
+50,13,16,2025-04-15,34,Retail Pharmacy,Fulfilled
+51,132,13,2025-09-05,25,Retail Pharmacy,Pending
+52,159,17,2026-04-29,16,Hospital,Cancelled
+53,165,19,2026-08-29,34,Hospital,Fulfilled
+54,180,11,2025-09-21,7,Specialty Pharmacy,Fulfilled
+55,27,7,2024-04-05,34,Hospital,Fulfilled
+56,55,24,2026-06-21,23,Retail Pharmacy,Fulfilled
+57,87,21,2026-05-06,1,Retail Pharmacy,Fulfilled
+58,89,2,2025-07-14,12,Hospital,Fulfilled
+59,100,2,2025-05-13,10,Hospital,Fulfilled
+60,48,23,2026-08-06,28,Hospital,Fulfilled
+61,99,16,2025-09-13,7,Specialty Pharmacy,Fulfilled
+62,67,15,2024-09-21,7,Retail Pharmacy,Fulfilled
+63,152,8,2026-09-04,34,Retail Pharmacy,Fulfilled
+64,65,17,2024-08-23,25,Hospital,Pending
+65,168,11,2026-09-16,26,Specialty Pharmacy,Fulfilled
+66,143,22,2024-08-28,25,Hospital,Fulfilled
+67,69,19,2026-02-19,21,Retail Pharmacy,Pending
+68,51,18,2024-05-02,4,Retail Pharmacy,Pending
+69,114,19,2026-05-23,12,Retail Pharmacy,Fulfilled
+70,20,11,2026-07-26,16,Retail Pharmacy,Fulfilled
+71,180,11,2024-06-10,14,Hospital,Pending
+72,37,15,2025-06-23,32,Specialty Pharmacy,Fulfilled
+73,39,14,2025-07-17,32,Retail Pharmacy,Fulfilled
+74,120,12,2024-10-21,13,Hospital,Fulfilled
+75,170,19,2025-07-02,38,Specialty Pharmacy,Fulfilled
+76,154,12,2026-08-04,2,Retail Pharmacy,Fulfilled
+77,43,1,2025-06-04,40,Hospital,Fulfilled
+78,9,23,2024-02-25,37,Specialty Pharmacy,Pending
+79,69,20,2026-07-17,35,Hospital,Fulfilled
+80,62,7,2024-06-24,8,Retail Pharmacy,Fulfilled
+81,41,3,2025-06-12,4,Hospital,Pending
+82,131,3,2024-01-31,3,Specialty Pharmacy,Fulfilled
+83,104,23,2025-01-07,8,Retail Pharmacy,Fulfilled
+84,56,6,2025-02-11,18,Retail Pharmacy,Fulfilled
+85,34,2,2025-02-18,11,Hospital,Fulfilled
+86,63,6,2025-12-20,7,Hospital,Pending
+87,52,7,2026-08-27,22,Hospital,Fulfilled
+88,7,4,2024-10-24,2,Retail Pharmacy,Fulfilled
+89,105,6,2026-06-07,20,Retail Pharmacy,Fulfilled
+90,111,23,2026-06-19,23,Specialty Pharmacy,Fulfilled
+91,104,8,2024-12-17,30,Retail Pharmacy,Fulfilled
+92,159,19,2026-08-08,28,Specialty Pharmacy,Cancelled
+93,115,13,2025-10-09,9,Hospital,Cancelled
+94,119,6,2024-05-30,19,Specialty Pharmacy,Pending
+95,55,24,2024-03-07,22,Hospital,Fulfilled
+96,153,13,2024-09-23,27,Hospital,Cancelled
+97,27,5,2025-03-31,17,Specialty Pharmacy,Fulfilled
+98,14,9,2026-09-08,20,Retail Pharmacy,Fulfilled
+99,70,7,2024-08-29,26,Retail Pharmacy,Fulfilled
+100,92,20,2026-09-24,14,Specialty Pharmacy,Pending
+101,98,12,2025-09-16,36,Specialty Pharmacy,Fulfilled
+102,35,19,2026-04-01,24,Specialty Pharmacy,Fulfilled
+103,82,2,2024-02-12,26,Specialty Pharmacy,Fulfilled
+104,175,6,2025-04-16,39,Hospital,Fulfilled
+105,126,21,2024-01-26,8,Specialty Pharmacy,Cancelled
+106,147,22,2026-08-02,38,Specialty Pharmacy,Fulfilled
+107,116,18,2024-02-13,16,Specialty Pharmacy,Pending
+108,152,13,2025-02-25,14,Retail Pharmacy,Fulfilled
+109,145,16,2024-11-17,28,Retail Pharmacy,Pending
+110,78,1,2025-11-05,17,Hospital,Fulfilled
+111,57,3,2024-06-03,5,Hospital,Cancelled
+112,93,17,2026-04-26,6,Specialty Pharmacy,Fulfilled
+113,133,3,2024-02-21,8,Specialty Pharmacy,Fulfilled
+114,154,9,2024-08-18,11,Hospital,Fulfilled
+115,8,20,2025-10-02,27,Specialty Pharmacy,Fulfilled
+116,175,7,2024-04-26,40,Specialty Pharmacy,Fulfilled
+117,102,3,2026-09-13,9,Retail Pharmacy,Fulfilled
+118,152,23,2024-07-18,21,Retail Pharmacy,Fulfilled
+119,3,20,2026-04-14,3,Retail Pharmacy,Pending
+120,9,22,2026-09-19,9,Retail Pharmacy,Fulfilled
+121,112,24,2024-02-23,18,Retail Pharmacy,Fulfilled
+122,13,16,2026-09-03,33,Retail Pharmacy,Fulfilled
+123,115,17,2026-08-13,19,Hospital,Fulfilled
+124,162,1,2024-11-10,9,Hospital,Fulfilled
+125,57,3,2024-06-03,35,Specialty Pharmacy,Fulfilled
+126,80,23,2026-05-12,39,Specialty Pharmacy,Fulfilled
+127,110,15,2024-06-21,11,Retail Pharmacy,Fulfilled
+128,147,23,2025-04-24,19,Retail Pharmacy,Fulfilled
+129,177,17,2025-05-07,27,Hospital,Fulfilled
+130,149,8,2026-01-17,1,Specialty Pharmacy,Fulfilled
+131,135,8,2024-02-15,28,Specialty Pharmacy,Fulfilled
+132,172,13,2024-11-14,7,Retail Pharmacy,Fulfilled
+133,166,24,2026-06-17,31,Retail Pharmacy,Fulfilled
+134,35,17,2026-02-25,20,Retail Pharmacy,Fulfilled
+135,162,3,2024-12-12,5,Retail Pharmacy,Fulfilled
+136,172,15,2025-03-14,7,Retail Pharmacy,Fulfilled
+137,16,10,2025-05-05,1,Specialty Pharmacy,Fulfilled
+138,71,2,2026-10-19,29,Specialty Pharmacy,Fulfilled
+139,167,12,2024-05-25,2,Retail Pharmacy,Fulfilled
+140,174,19,2024-02-03,13,Hospital,Fulfilled
+141,32,12,2024-02-05,34,Retail Pharmacy,Fulfilled
+142,144,10,2025-02-12,24,Hospital,Cancelled
+143,155,19,2024-01-14,6,Specialty Pharmacy,Fulfilled
+144,145,16,2024-08-12,8,Hospital,Cancelled
+145,112,24,2024-05-11,36,Specialty Pharmacy,Fulfilled
+146,44,12,2026-02-04,33,Specialty Pharmacy,Fulfilled
+147,152,20,2026-07-27,38,Hospital,Pending
+148,33,20,2024-07-01,28,Hospital,Fulfilled
+149,19,21,2024-11-15,34,Hospital,Fulfilled
+150,75,1,2025-12-04,31,Specialty Pharmacy,Pending
+151,80,23,2026-09-15,25,Hospital,Fulfilled
+152,141,5,2026-08-03,8,Hospital,Fulfilled
+153,161,2,2024-10-07,13,Hospital,Fulfilled
+154,98,12,2024-06-07,39,Specialty Pharmacy,Cancelled
+155,119,5,2026-09-30,15,Specialty Pharmacy,Fulfilled
+156,118,1,2026-03-18,36,Retail Pharmacy,Fulfilled
+157,53,10,2026-07-06,3,Specialty Pharmacy,Fulfilled
+158,179,11,2025-05-18,35,Hospital,Fulfilled
+159,78,3,2025-11-19,13,Hospital,Pending
+160,5,24,2024-10-02,6,Specialty Pharmacy,Fulfilled
+161,53,9,2025-07-19,35,Retail Pharmacy,Pending
+162,91,6,2026-03-17,32,Hospital,Fulfilled
+163,131,4,2025-09-03,18,Specialty Pharmacy,Fulfilled
+164,128,10,2024-04-03,26,Hospital,Fulfilled
+165,135,8,2026-07-10,25,Retail Pharmacy,Fulfilled
+166,97,24,2024-09-07,19,Retail Pharmacy,Fulfilled
+167,87,22,2024-06-10,30,Hospital,Fulfilled
+168,62,7,2025-03-21,40,Specialty Pharmacy,Cancelled
+169,131,3,2024-02-21,30,Specialty Pharmacy,Fulfilled
+170,157,22,2024-03-11,28,Specialty Pharmacy,Fulfilled
+171,2,24,2026-09-22,14,Specialty Pharmacy,Fulfilled
+172,178,2,2026-05-27,20,Retail Pharmacy,Fulfilled
+173,143,23,2025-06-01,20,Hospital,Cancelled
+174,159,19,2024-12-03,4,Specialty Pharmacy,Pending
+175,144,12,2024-08-26,10,Hospital,Fulfilled
+176,51,18,2024-04-28,5,Specialty Pharmacy,Pending
+177,67,15,2025-07-26,29,Specialty Pharmacy,Fulfilled
+178,105,5,2024-05-19,10,Specialty Pharmacy,Fulfilled
+179,106,20,2025-10-12,34,Hospital,Fulfilled
+180,85,12,2024-10-12,33,Retail Pharmacy,Fulfilled
+181,91,6,2024-04-01,27,Retail Pharmacy,Fulfilled
+182,155,17,2026-05-10,11,Hospital,Fulfilled
+183,28,5,2024-01-07,27,Retail Pharmacy,Fulfilled
+184,91,8,2025-06-05,28,Hospital,Fulfilled
+185,52,5,2026-01-04,20,Hospital,Cancelled
+186,174,18,2025-12-01,31,Retail Pharmacy,Fulfilled
+187,104,20,2026-05-20,15,Specialty Pharmacy,Fulfilled
+188,74,4,2025-09-30,21,Hospital,Fulfilled
+189,10,11,2024-06-11,26,Retail Pharmacy,Fulfilled
+190,42,15,2024-01-18,33,Hospital,Cancelled
+191,39,15,2025-05-19,5,Hospital,Fulfilled
+192,77,16,2026-09-23,34,Retail Pharmacy,Fulfilled
+193,72,9,2025-11-28,2,Hospital,Fulfilled
+194,35,17,2026-01-14,37,Hospital,Fulfilled
+195,153,6,2025-01-22,40,Specialty Pharmacy,Pending
+196,69,20,2024-11-22,4,Retail Pharmacy,Fulfilled
+197,170,17,2026-02-21,5,Hospital,Fulfilled
+198,35,17,2024-08-08,27,Specialty Pharmacy,Fulfilled
+199,77,14,2025-09-18,36,Specialty Pharmacy,Pending
+200,103,15,2025-11-15,10,Retail Pharmacy,Fulfilled
+201,168,10,2025-09-01,5,Hospital,Fulfilled
+202,68,3,2026-01-29,33,Specialty Pharmacy,Fulfilled
+203,146,9,2025-09-24,22,Retail Pharmacy,Fulfilled
+204,173,15,2024-03-27,5,Specialty Pharmacy,Pending
+205,174,20,2024-02-19,39,Hospital,Fulfilled
+206,116,19,2026-04-10,26,Specialty Pharmacy,Fulfilled
+207,171,19,2025-07-13,10,Retail Pharmacy,Pending
+208,86,13,2025-10-08,34,Hospital,Fulfilled
+209,14,11,2026-10-15,4,Hospital,Fulfilled
+210,3,18,2025-05-18,21,Retail Pharmacy,Fulfilled
+211,64,24,2024-11-11,18,Hospital,Pending
+212,6,18,2024-08-06,21,Retail Pharmacy,Fulfilled
+213,170,17,2024-02-02,24,Hospital,Fulfilled
+214,67,14,2026-03-06,6,Hospital,Fulfilled
+215,130,18,2025-12-22,35,Hospital,Fulfilled
+216,91,6,2025-04-12,13,Retail Pharmacy,Fulfilled
+217,125,9,2024-12-17,8,Retail Pharmacy,Fulfilled
+218,172,16,2024-03-19,28,Hospital,Fulfilled
+219,81,14,2025-11-15,38,Retail Pharmacy,Pending
+220,102,23,2025-03-31,1,Hospital,Fulfilled
+221,80,23,2024-06-09,32,Retail Pharmacy,Cancelled
+222,34,3,2024-11-28,3,Hospital,Fulfilled
+223,26,18,2025-05-24,2,Retail Pharmacy,Fulfilled
+224,14,9,2025-05-06,26,Hospital,Fulfilled
+225,151,8,2024-03-30,37,Hospital,Fulfilled
+226,19,24,2026-05-13,12,Hospital,Fulfilled
+227,62,5,2025-07-30,31,Hospital,Fulfilled
+228,158,13,2025-08-10,26,Hospital,Cancelled
+229,75,3,2025-07-15,38,Retail Pharmacy,Fulfilled
+230,96,20,2025-06-30,10,Hospital,Fulfilled
+231,29,17,2024-02-16,40,Specialty Pharmacy,Fulfilled
+232,56,19,2026-02-12,17,Specialty Pharmacy,Pending
+233,139,14,2024-11-11,27,Hospital,Fulfilled
+234,87,16,2026-01-12,24,Hospital,Fulfilled
+235,79,22,2025-03-01,1,Hospital,Fulfilled
+236,8,17,2024-10-11,6,Specialty Pharmacy,Fulfilled
+237,97,24,2025-11-04,9,Specialty Pharmacy,Fulfilled
+238,93,19,2024-04-15,14,Hospital,Fulfilled
+239,108,7,2025-05-18,5,Specialty Pharmacy,Pending
+240,108,5,2025-09-08,8,Retail Pharmacy,Fulfilled
+241,6,20,2024-06-21,18,Specialty Pharmacy,Fulfilled
+242,133,3,2024-12-18,35,Hospital,Fulfilled
+243,175,5,2026-05-07,28,Hospital,Fulfilled
+244,51,18,2025-05-05,25,Specialty Pharmacy,Fulfilled
+245,173,16,2024-02-10,29,Retail Pharmacy,Fulfilled
+246,162,2,2026-04-07,28,Retail Pharmacy,Fulfilled
+247,27,7,2024-02-12,36,Retail Pharmacy,Fulfilled
+248,143,23,2025-04-28,32,Hospital,Fulfilled
+249,112,22,2024-02-18,40,Retail Pharmacy,Fulfilled
+250,41,3,2024-10-25,38,Retail Pharmacy,Fulfilled
+251,44,11,2024-10-21,38,Specialty Pharmacy,Fulfilled
+252,39,13,2024-03-15,27,Hospital,Fulfilled
+253,143,21,2024-08-24,8,Specialty Pharmacy,Cancelled
+254,2,21,2024-07-27,35,Hospital,Pending
+255,121,12,2024-05-31,38,Hospital,Fulfilled
+256,166,23,2026-10-20,21,Specialty Pharmacy,Fulfilled
+257,12,10,2026-04-08,18,Hospital,Fulfilled
+258,21,15,2026-06-28,32,Retail Pharmacy,Fulfilled
+259,66,3,2025-04-28,12,Hospital,Fulfilled
+260,55,22,2025-12-25,11,Specialty Pharmacy,Fulfilled
+261,19,23,2024-08-06,12,Retail Pharmacy,Cancelled
+262,53,12,2024-02-26,31,Hospital,Fulfilled
+263,141,4,2024-01-26,12,Hospital,Fulfilled
+264,93,19,2024-09-02,39,Specialty Pharmacy,Fulfilled
+265,173,16,2025-08-01,7,Retail Pharmacy,Fulfilled
+266,144,11,2026-06-18,37,Retail Pharmacy,Pending
+267,91,8,2025-01-01,5,Hospital,Fulfilled
+268,139,15,2024-06-09,23,Hospital,Pending
+269,145,13,2025-01-07,17,Specialty Pharmacy,Fulfilled
+270,136,7,2024-02-14,27,Hospital,Cancelled
+271,177,20,2024-05-16,13,Retail Pharmacy,Fulfilled
+272,18,7,2024-03-08,11,Hospital,Fulfilled
+273,118,5,2024-01-23,40,Specialty Pharmacy,Fulfilled
+274,110,14,2025-06-16,36,Retail Pharmacy,Pending
+275,33,17,2025-06-01,18,Hospital,Fulfilled
+276,150,16,2025-02-10,34,Hospital,Fulfilled
+277,5,21,2025-09-02,22,Hospital,Pending
+278,76,12,2025-12-28,40,Hospital,Fulfilled
+279,161,3,2026-07-27,30,Specialty Pharmacy,Fulfilled
+280,41,1,2026-03-23,20,Hospital,Fulfilled
+281,78,1,2025-05-24,27,Hospital,Fulfilled
+282,141,9,2026-06-14,1,Specialty Pharmacy,Fulfilled
+283,81,14,2026-07-24,11,Retail Pharmacy,Fulfilled
+284,174,17,2025-05-28,9,Retail Pharmacy,Fulfilled
+285,104,9,2025-12-22,24,Retail Pharmacy,Pending
+286,129,23,2024-05-31,40,Specialty Pharmacy,Cancelled
+287,46,18,2024-12-08,18,Hospital,Fulfilled
+288,110,15,2025-08-26,17,Specialty Pharmacy,Fulfilled
+289,106,19,2025-07-11,25,Retail Pharmacy,Cancelled
+290,58,12,2024-09-25,10,Hospital,Pending
+291,131,3,2024-09-14,38,Specialty Pharmacy,Cancelled
+292,150,21,2025-01-10,11,Retail Pharmacy,Fulfilled
+293,11,4,2025-06-10,3,Specialty Pharmacy,Fulfilled
+294,41,3,2024-01-05,19,Retail Pharmacy,Fulfilled
+295,107,9,2025-07-27,25,Retail Pharmacy,Fulfilled
+296,17,13,2025-06-26,23,Hospital,Fulfilled
+297,122,20,2025-07-09,26,Retail Pharmacy,Cancelled
+298,35,18,2024-07-15,29,Hospital,Fulfilled
+299,103,13,2026-07-08,9,Hospital,Fulfilled
+300,60,17,2026-09-27,23,Retail Pharmacy,Fulfilled
+301,94,20,2024-09-16,22,Retail Pharmacy,Fulfilled
+302,139,15,2026-07-31,7,Specialty Pharmacy,Fulfilled
+303,160,7,2025-05-10,5,Hospital,Pending
+304,180,10,2026-06-05,22,Retail Pharmacy,Fulfilled
+305,141,21,2024-05-07,15,Retail Pharmacy,Pending
+306,148,19,2026-06-26,35,Hospital,Pending
+307,133,4,2025-06-23,19,Hospital,Pending
+308,115,1,2026-05-22,22,Retail Pharmacy,Fulfilled
+309,158,10,2024-05-01,26,Retail Pharmacy,Pending
+310,151,6,2025-04-21,7,Specialty Pharmacy,Fulfilled
+311,52,5,2024-09-29,34,Hospital,Fulfilled
+312,100,4,2026-10-05,2,Specialty Pharmacy,Cancelled
+313,96,12,2024-09-12,1,Specialty Pharmacy,Fulfilled
+314,76,10,2026-10-14,21,Hospital,Fulfilled
+315,23,7,2025-01-13,25,Retail Pharmacy,Fulfilled
+316,111,24,2024-01-09,31,Retail Pharmacy,Fulfilled
+317,39,16,2024-04-09,19,Specialty Pharmacy,Fulfilled
+318,68,3,2025-07-03,21,Hospital,Fulfilled
+319,157,23,2024-08-10,3,Retail Pharmacy,Fulfilled
+320,170,18,2026-03-08,31,Retail Pharmacy,Fulfilled
+321,37,16,2025-10-24,38,Retail Pharmacy,Pending
+322,39,15,2024-09-14,38,Specialty Pharmacy,Cancelled
+323,95,7,2026-01-07,1,Hospital,Fulfilled
+324,121,11,2025-12-03,23,Specialty Pharmacy,Cancelled
+325,130,16,2026-02-28,37,Specialty Pharmacy,Fulfilled
+326,140,1,2025-08-07,23,Retail Pharmacy,Fulfilled
+327,113,24,2024-10-28,39,Hospital,Fulfilled
+328,126,21,2026-02-07,23,Specialty Pharmacy,Fulfilled
+329,147,24,2026-09-08,23,Specialty Pharmacy,Fulfilled
+330,167,11,2025-05-03,26,Hospital,Fulfilled
+331,96,9,2025-09-20,23,Specialty Pharmacy,Fulfilled
+332,147,22,2024-05-17,22,Hospital,Fulfilled
+333,68,2,2025-01-04,18,Retail Pharmacy,Fulfilled
+334,102,10,2024-07-15,17,Hospital,Fulfilled
+335,115,3,2025-05-13,15,Hospital,Fulfilled
+336,83,14,2024-02-12,13,Specialty Pharmacy,Cancelled
+337,95,5,2024-03-09,7,Specialty Pharmacy,Fulfilled
+338,162,1,2026-08-10,36,Hospital,Fulfilled
+339,71,4,2025-01-10,40,Retail Pharmacy,Fulfilled
+340,104,10,2025-10-24,39,Hospital,Fulfilled
+341,84,4,2026-04-17,22,Retail Pharmacy,Fulfilled
+342,135,6,2025-02-22,14,Specialty Pharmacy,Pending
+343,113,4,2024-04-05,1,Specialty Pharmacy,Fulfilled
+344,119,8,2024-10-07,10,Retail Pharmacy,Fulfilled
+345,72,12,2026-07-08,21,Hospital,Fulfilled
+346,136,8,2025-02-05,38,Hospital,Fulfilled
+347,89,2,2025-06-03,2,Hospital,Fulfilled
+348,53,10,2024-09-25,16,Hospital,Fulfilled
+349,125,9,2024-11-01,7,Specialty Pharmacy,Fulfilled
+350,31,8,2025-11-24,5,Retail Pharmacy,Cancelled
+351,113,13,2024-11-19,28,Specialty Pharmacy,Fulfilled
+352,82,4,2026-02-22,20,Specialty Pharmacy,Fulfilled
+353,92,19,2024-12-09,4,Hospital,Fulfilled
+354,166,21,2025-10-12,38,Specialty Pharmacy,Cancelled
+355,62,8,2025-01-11,21,Hospital,Pending
+356,120,12,2026-08-12,38,Specialty Pharmacy,Fulfilled
+357,80,22,2026-08-28,19,Hospital,Fulfilled
+358,108,5,2025-05-02,37,Hospital,Fulfilled
+359,160,8,2024-06-25,11,Hospital,Fulfilled
+360,47,8,2025-05-12,38,Retail Pharmacy,Fulfilled
+361,121,9,2024-03-01,7,Specialty Pharmacy,Fulfilled
+362,40,5,2025-06-07,30,Retail Pharmacy,Cancelled
+363,25,11,2024-04-24,10,Retail Pharmacy,Fulfilled
+364,13,3,2024-03-08,24,Specialty Pharmacy,Cancelled
+365,170,19,2025-05-14,31,Hospital,Pending
+366,70,13,2026-03-29,8,Specialty Pharmacy,Pending
+367,145,16,2025-02-02,19,Retail Pharmacy,Fulfilled
+368,96,22,2024-01-13,5,Hospital,Fulfilled
+369,143,22,2025-01-24,40,Specialty Pharmacy,Fulfilled
+370,111,23,2024-01-28,28,Retail Pharmacy,Fulfilled
+371,50,14,2025-05-25,14,Specialty Pharmacy,Fulfilled
+372,136,6,2024-02-12,29,Retail Pharmacy,Fulfilled
+373,99,13,2026-06-18,30,Hospital,Cancelled
+374,111,22,2024-02-07,27,Specialty Pharmacy,Fulfilled
+375,85,11,2026-02-09,5,Specialty Pharmacy,Fulfilled
+376,96,2,2024-03-06,21,Hospital,Fulfilled
+377,8,20,2026-03-21,21,Retail Pharmacy,Cancelled
+378,60,19,2024-10-28,10,Hospital,Fulfilled
+379,105,8,2024-12-11,21,Retail Pharmacy,Pending
+380,113,8,2024-09-11,22,Specialty Pharmacy,Fulfilled
+381,90,5,2025-01-14,23,Retail Pharmacy,Pending
+382,25,11,2026-07-17,4,Hospital,Fulfilled
+383,44,12,2024-01-27,29,Retail Pharmacy,Fulfilled
+384,158,13,2026-05-27,35,Retail Pharmacy,Pending
+385,83,14,2025-07-10,30,Hospital,Fulfilled
+386,48,24,2026-07-21,14,Hospital,Fulfilled
+387,56,19,2024-04-25,40,Hospital,Fulfilled
+388,79,24,2025-08-20,14,Specialty Pharmacy,Pending
+389,5,22,2026-06-18,5,Specialty Pharmacy,Fulfilled
+390,10,9,2025-03-21,18,Specialty Pharmacy,Cancelled
+391,12,10,2024-12-26,7,Specialty Pharmacy,Fulfilled
+392,128,9,2025-02-05,31,Specialty Pharmacy,Fulfilled
+393,141,5,2025-07-29,20,Hospital,Cancelled
+394,157,22,2024-10-17,4,Specialty Pharmacy,Fulfilled
+395,65,19,2026-01-18,12,Hospital,Fulfilled
+396,139,13,2025-03-23,12,Retail Pharmacy,Fulfilled
+397,95,7,2025-09-02,2,Specialty Pharmacy,Fulfilled
+398,103,11,2024-07-10,32,Retail Pharmacy,Fulfilled
+399,91,8,2025-03-18,12,Retail Pharmacy,Fulfilled
+400,4,5,2026-07-27,7,Hospital,Fulfilled
+401,144,12,2026-03-20,7,Hospital,Fulfilled
+402,143,24,2026-09-30,1,Hospital,Fulfilled
+403,7,2,2025-12-27,24,Hospital,Fulfilled
+404,90,7,2026-05-12,2,Hospital,Fulfilled
+405,83,16,2024-09-26,6,Specialty Pharmacy,Fulfilled
+406,140,2,2025-08-01,23,Specialty Pharmacy,Fulfilled
+407,14,12,2024-05-27,23,Hospital,Cancelled
+408,108,6,2026-01-07,2,Retail Pharmacy,Fulfilled
+409,113,5,2025-10-08,10,Specialty Pharmacy,Fulfilled
+410,152,1,2026-07-21,17,Retail Pharmacy,Fulfilled
+411,89,3,2025-05-28,38,Specialty Pharmacy,Fulfilled
+412,92,20,2024-10-22,8,Retail Pharmacy,Pending
+413,125,11,2025-07-06,3,Specialty Pharmacy,Fulfilled
+414,99,16,2024-06-27,14,Hospital,Fulfilled
+415,96,19,2025-09-21,39,Hospital,Fulfilled
+416,92,17,2025-05-05,12,Specialty Pharmacy,Fulfilled
+417,133,24,2024-07-27,30,Specialty Pharmacy,Fulfilled
+418,17,13,2024-05-27,23,Retail Pharmacy,Pending
+419,178,1,2024-03-12,21,Hospital,Fulfilled
+420,77,16,2026-01-02,26,Specialty Pharmacy,Fulfilled
+421,144,12,2025-01-14,20,Specialty Pharmacy,Pending
+422,14,11,2026-04-21,2,Specialty Pharmacy,Fulfilled
+423,120,10,2026-08-15,12,Retail Pharmacy,Fulfilled
+424,82,2,2024-05-07,21,Hospital,Pending
+425,170,17,2026-08-25,13,Retail Pharmacy,Fulfilled
+426,106,17,2026-09-10,3,Hospital,Pending
+427,8,18,2026-06-09,26,Specialty Pharmacy,Fulfilled
+428,130,8,2025-09-03,21,Specialty Pharmacy,Fulfilled
+429,1,15,2024-10-31,2,Retail Pharmacy,Fulfilled
+430,91,7,2026-04-19,10,Retail Pharmacy,Fulfilled
+431,77,13,2024-02-02,36,Retail Pharmacy,Fulfilled
+432,58,12,2026-08-31,28,Specialty Pharmacy,Fulfilled
+433,178,3,2024-01-21,20,Hospital,Pending
+434,135,5,2025-11-07,23,Specialty Pharmacy,Fulfilled
+435,22,13,2024-01-11,14,Retail Pharmacy,Fulfilled
+436,67,14,2024-04-25,25,Retail Pharmacy,Fulfilled
+437,176,22,2025-04-27,25,Retail Pharmacy,Pending
+438,174,19,2025-12-06,8,Specialty Pharmacy,Fulfilled
+439,59,1,2025-03-22,3,Hospital,Fulfilled
+440,5,24,2026-05-15,15,Retail Pharmacy,Pending
+441,87,17,2026-03-08,38,Retail Pharmacy,Fulfilled
+442,29,17,2024-03-03,25,Specialty Pharmacy,Fulfilled
+443,4,6,2025-09-29,14,Hospital,Pending
+444,173,15,2025-10-21,16,Retail Pharmacy,Cancelled
+445,180,12,2024-08-09,1,Hospital,Fulfilled
+446,157,21,2024-12-16,13,Hospital,Fulfilled
+447,108,7,2024-08-18,15,Hospital,Cancelled
+448,18,17,2026-02-07,16,Hospital,Fulfilled
+449,122,20,2024-02-28,4,Retail Pharmacy,Fulfilled
+450,126,21,2024-07-19,3,Retail Pharmacy,Fulfilled
+451,104,8,2024-01-06,39,Hospital,Fulfilled
+452,105,5,2026-07-12,6,Retail Pharmacy,Fulfilled
+453,158,13,2026-07-16,13,Retail Pharmacy,Fulfilled
+454,141,11,2025-12-13,11,Retail Pharmacy,Fulfilled
+455,48,23,2025-07-08,13,Hospital,Fulfilled
+456,142,2,2026-05-17,31,Hospital,Cancelled
+457,37,16,2025-06-03,19,Specialty Pharmacy,Fulfilled
+458,113,5,2024-10-15,29,Hospital,Fulfilled
+459,13,15,2026-01-17,31,Specialty Pharmacy,Fulfilled
+460,124,22,2026-06-20,23,Retail Pharmacy,Fulfilled
+461,5,23,2025-07-19,38,Specialty Pharmacy,Fulfilled
+462,145,15,2024-10-09,39,Specialty Pharmacy,Fulfilled
+463,20,12,2026-02-23,2,Retail Pharmacy,Fulfilled
+464,74,3,2025-12-28,17,Hospital,Pending
+465,73,1,2026-03-31,13,Specialty Pharmacy,Fulfilled
+466,142,1,2025-11-11,27,Specialty Pharmacy,Fulfilled
+467,177,17,2024-02-12,9,Hospital,Pending
+468,128,9,2025-09-29,8,Retail Pharmacy,Fulfilled
+469,111,23,2025-06-25,29,Retail Pharmacy,Fulfilled
+470,109,19,2025-08-22,36,Hospital,Fulfilled
+471,143,21,2025-09-28,11,Specialty Pharmacy,Fulfilled
+472,119,6,2025-07-25,29,Retail Pharmacy,Fulfilled
+473,46,17,2026-10-06,14,Retail Pharmacy,Fulfilled
+474,116,19,2026-09-07,34,Retail Pharmacy,Fulfilled
+475,89,4,2025-09-02,35,Retail Pharmacy,Fulfilled
+476,41,3,2024-05-19,4,Retail Pharmacy,Fulfilled
+477,145,16,2024-10-02,21,Retail Pharmacy,Fulfilled
+478,24,8,2025-04-24,35,Hospital,Fulfilled
+479,24,5,2026-05-11,38,Hospital,Fulfilled
+480,178,2,2025-06-30,21,Retail Pharmacy,Fulfilled
+481,24,6,2026-07-03,4,Specialty Pharmacy,Fulfilled
+482,124,12,2024-09-14,3,Retail Pharmacy,Cancelled
+483,6,17,2025-03-08,23,Specialty Pharmacy,Fulfilled
+484,96,6,2025-02-04,33,Specialty Pharmacy,Cancelled
+485,12,9,2025-04-30,39,Specialty Pharmacy,Fulfilled
+486,37,16,2025-03-20,39,Hospital,Fulfilled
+487,104,16,2024-04-21,25,Specialty Pharmacy,Fulfilled
+488,56,2,2025-05-23,25,Hospital,Pending
+489,129,21,2025-07-22,8,Retail Pharmacy,Fulfilled
+490,35,19,2024-11-10,1,Retail Pharmacy,Pending
+491,44,10,2026-03-07,18,Hospital,Fulfilled
+492,117,8,2024-07-01,3,Hospital,Fulfilled
+493,25,12,2025-07-18,40,Retail Pharmacy,Pending
+494,31,6,2025-09-05,11,Retail Pharmacy,Fulfilled
+495,150,13,2025-03-20,36,Hospital,Fulfilled
+496,173,13,2025-12-12,20,Specialty Pharmacy,Pending
+497,107,9,2025-05-14,36,Hospital,Fulfilled
+498,25,11,2025-12-13,33,Specialty Pharmacy,Cancelled
+499,69,19,2024-08-13,40,Specialty Pharmacy,Pending
+500,14,12,2024-11-09,31,Specialty Pharmacy,Fulfilled
+501,137,6,2024-07-27,6,Retail Pharmacy,Fulfilled
+502,7,2,2025-04-19,33,Specialty Pharmacy,Fulfilled
+503,59,4,2024-05-19,40,Retail Pharmacy,Cancelled
+504,170,19,2024-01-04,11,Hospital,Fulfilled
+505,12,9,2024-03-14,38,Specialty Pharmacy,Fulfilled
+506,172,15,2025-10-19,28,Hospital,Fulfilled
+507,40,8,2025-01-04,37,Specialty Pharmacy,Fulfilled
+508,129,23,2024-04-30,15,Specialty Pharmacy,Fulfilled
+509,86,14,2026-03-23,19,Hospital,Fulfilled
+510,148,18,2024-08-19,2,Specialty Pharmacy,Fulfilled
+511,135,8,2024-09-16,40,Retail Pharmacy,Fulfilled
+512,152,16,2026-04-29,15,Specialty Pharmacy,Fulfilled
+513,180,10,2025-04-26,35,Retail Pharmacy,Fulfilled
+514,164,4,2026-10-15,31,Specialty Pharmacy,Fulfilled
+515,16,9,2026-07-18,35,Specialty Pharmacy,Cancelled
+516,6,18,2024-04-07,40,Specialty Pharmacy,Fulfilled
+517,153,17,2024-03-30,23,Hospital,Fulfilled
+518,132,15,2024-12-23,25,Specialty Pharmacy,Cancelled
+519,19,23,2026-08-04,26,Specialty Pharmacy,Cancelled
+520,63,6,2024-02-08,17,Specialty Pharmacy,Fulfilled
+521,8,17,2024-05-05,6,Retail Pharmacy,Fulfilled
+522,96,6,2024-09-27,12,Hospital,Fulfilled
+523,146,12,2024-02-19,25,Specialty Pharmacy,Fulfilled
+524,166,21,2025-05-04,13,Retail Pharmacy,Fulfilled
+525,52,7,2026-08-01,39,Hospital,Fulfilled
+526,150,7,2026-10-09,15,Specialty Pharmacy,Fulfilled
+527,73,3,2024-09-25,4,Specialty Pharmacy,Fulfilled
+528,166,24,2026-07-28,23,Retail Pharmacy,Fulfilled
+529,80,22,2025-09-11,26,Hospital,Fulfilled
+530,118,23,2024-10-22,14,Retail Pharmacy,Fulfilled
+531,154,12,2026-07-10,11,Specialty Pharmacy,Fulfilled
+532,147,23,2024-07-10,6,Hospital,Fulfilled
+533,178,4,2026-01-21,26,Specialty Pharmacy,Cancelled
+534,163,19,2026-09-16,28,Retail Pharmacy,Fulfilled
+535,97,24,2025-09-23,4,Retail Pharmacy,Fulfilled
+536,43,5,2026-08-14,19,Hospital,Cancelled
+537,75,3,2026-04-24,23,Retail Pharmacy,Fulfilled
+538,38,18,2026-10-10,39,Retail Pharmacy,Fulfilled
+539,54,13,2025-05-14,39,Hospital,Fulfilled
+540,172,15,2024-06-10,7,Retail Pharmacy,Pending
+541,30,18,2025-12-16,4,Specialty Pharmacy,Fulfilled
+542,160,7,2025-02-13,20,Hospital,Fulfilled
+543,146,9,2026-09-27,8,Retail Pharmacy,Fulfilled
+544,124,4,2024-09-04,17,Specialty Pharmacy,Pending
+545,116,17,2025-06-06,35,Hospital,Pending
+546,163,20,2025-01-30,30,Retail Pharmacy,Fulfilled
+547,167,11,2024-02-09,2,Retail Pharmacy,Fulfilled
+548,59,1,2024-12-04,31,Hospital,Cancelled
+549,56,11,2025-02-04,12,Specialty Pharmacy,Fulfilled
+550,61,5,2024-01-30,12,Hospital,Fulfilled
+551,174,18,2024-03-06,18,Hospital,Fulfilled
+552,164,2,2024-05-07,16,Hospital,Pending
+553,11,2,2025-06-17,17,Retail Pharmacy,Fulfilled
+554,47,6,2025-01-15,31,Retail Pharmacy,Cancelled
+555,8,20,2024-04-06,16,Specialty Pharmacy,Fulfilled
+556,36,3,2024-08-31,34,Specialty Pharmacy,Fulfilled
+557,47,7,2025-05-17,13,Hospital,Fulfilled
+558,150,17,2025-06-18,37,Specialty Pharmacy,Fulfilled
+559,176,21,2024-02-12,1,Retail Pharmacy,Fulfilled
+560,144,11,2024-07-12,15,Retail Pharmacy,Fulfilled
+561,74,3,2024-04-20,38,Hospital,Fulfilled
+562,125,9,2024-08-25,25,Retail Pharmacy,Pending
+563,108,7,2026-09-11,2,Retail Pharmacy,Pending
+564,15,15,2026-10-21,29,Hospital,Fulfilled
+565,113,16,2024-01-11,19,Specialty Pharmacy,Pending
+566,21,21,2025-04-18,24,Retail Pharmacy,Fulfilled
+567,128,12,2024-12-29,26,Specialty Pharmacy,Fulfilled
+568,62,7,2024-10-26,26,Hospital,Fulfilled
+569,171,24,2026-03-25,5,Hospital,Fulfilled
+570,59,3,2025-02-23,38,Retail Pharmacy,Fulfilled
+571,131,2,2024-10-12,1,Hospital,Fulfilled
+572,167,12,2026-03-02,39,Specialty Pharmacy,Pending
+573,98,12,2024-09-25,18,Retail Pharmacy,Fulfilled
+574,149,8,2025-03-17,18,Hospital,Fulfilled
+575,16,10,2024-03-08,14,Retail Pharmacy,Fulfilled
+576,144,10,2025-04-27,13,Specialty Pharmacy,Fulfilled
+577,175,6,2024-11-13,24,Specialty Pharmacy,Fulfilled
+578,162,3,2024-07-25,39,Retail Pharmacy,Fulfilled
+579,4,8,2025-07-09,40,Retail Pharmacy,Fulfilled
+580,127,18,2024-08-02,34,Hospital,Pending
+581,9,24,2026-01-19,15,Retail Pharmacy,Fulfilled
+582,93,20,2024-03-07,32,Hospital,Fulfilled
+583,80,22,2025-02-22,30,Specialty Pharmacy,Fulfilled
+584,134,23,2024-04-28,23,Specialty Pharmacy,Fulfilled
+585,153,1,2024-10-02,2,Retail Pharmacy,Pending
+586,21,17,2025-08-06,31,Hospital,Fulfilled
+587,151,5,2026-03-17,40,Retail Pharmacy,Cancelled
+588,111,21,2024-02-08,37,Hospital,Fulfilled
+589,39,14,2024-07-19,27,Hospital,Fulfilled
+590,160,5,2024-04-06,7,Hospital,Fulfilled
+591,123,21,2026-08-22,24,Specialty Pharmacy,Fulfilled
+592,35,18,2024-09-26,17,Hospital,Fulfilled
+593,154,9,2025-01-29,28,Retail Pharmacy,Fulfilled
+594,106,18,2024-07-20,39,Retail Pharmacy,Fulfilled
+595,169,11,2025-02-26,14,Specialty Pharmacy,Fulfilled
+596,38,17,2024-08-25,35,Specialty Pharmacy,Fulfilled
+597,47,5,2024-12-24,22,Retail Pharmacy,Fulfilled
+598,107,12,2026-09-21,21,Hospital,Cancelled
+599,123,20,2025-09-23,7,Specialty Pharmacy,Fulfilled
+600,38,19,2024-09-25,15,Hospital,Fulfilled
+601,39,15,2024-06-20,25,Specialty Pharmacy,Fulfilled
+602,74,2,2025-02-01,2,Hospital,Fulfilled
+603,65,19,2025-02-16,33,Retail Pharmacy,Pending
+604,34,3,2025-08-29,21,Retail Pharmacy,Fulfilled
+605,91,5,2025-05-21,26,Retail Pharmacy,Fulfilled
+606,7,1,2025-06-10,24,Retail Pharmacy,Pending
+607,124,9,2026-07-26,14,Hospital,Fulfilled
+608,86,15,2026-06-23,37,Retail Pharmacy,Fulfilled
+609,122,13,2024-05-11,5,Retail Pharmacy,Fulfilled
+610,156,7,2026-08-27,15,Hospital,Fulfilled
+611,5,21,2026-06-03,6,Retail Pharmacy,Fulfilled
+612,131,2,2026-09-17,3,Retail Pharmacy,Fulfilled
+613,112,22,2026-07-09,10,Retail Pharmacy,Fulfilled
+614,28,8,2025-04-23,14,Specialty Pharmacy,Fulfilled
+615,176,21,2024-11-06,5,Retail Pharmacy,Fulfilled
+616,16,9,2024-06-20,22,Hospital,Cancelled
+617,127,17,2025-10-01,27,Retail Pharmacy,Fulfilled
+618,12,9,2026-01-02,26,Hospital,Pending
+619,6,19,2025-05-07,29,Hospital,Fulfilled
+620,46,19,2024-08-24,6,Hospital,Fulfilled
+621,147,22,2025-12-23,31,Specialty Pharmacy,Fulfilled
+622,25,11,2024-01-02,16,Hospital,Fulfilled
+623,127,20,2026-01-10,11,Hospital,Fulfilled
+624,87,5,2025-04-22,38,Specialty Pharmacy,Fulfilled
+625,21,21,2024-05-19,15,Hospital,Fulfilled
+626,16,9,2025-12-13,6,Retail Pharmacy,Fulfilled
+627,95,8,2026-06-03,10,Hospital,Fulfilled
+628,144,12,2024-08-20,18,Specialty Pharmacy,Fulfilled
+629,124,11,2026-04-18,5,Specialty Pharmacy,Fulfilled
+630,6,20,2025-10-29,33,Retail Pharmacy,Fulfilled
+631,1,4,2026-09-21,1,Retail Pharmacy,Pending
+632,44,9,2024-04-05,25,Specialty Pharmacy,Fulfilled
+633,140,4,2024-09-24,30,Specialty Pharmacy,Fulfilled
+634,76,9,2024-07-05,38,Hospital,Fulfilled
+635,67,16,2025-04-25,38,Retail Pharmacy,Fulfilled
+636,37,15,2024-12-18,4,Hospital,Fulfilled
+637,41,2,2024-05-18,24,Hospital,Fulfilled
+638,63,5,2024-11-27,7,Hospital,Fulfilled
+639,63,5,2025-07-24,9,Retail Pharmacy,Fulfilled
+640,129,23,2026-10-10,29,Hospital,Fulfilled
+641,15,15,2024-10-02,36,Retail Pharmacy,Fulfilled
+642,128,12,2025-05-19,17,Retail Pharmacy,Fulfilled
+643,52,6,2024-07-17,38,Hospital,Pending
+644,164,3,2026-02-21,10,Specialty Pharmacy,Fulfilled
+645,175,6,2026-03-29,7,Retail Pharmacy,Fulfilled
+646,114,19,2026-06-04,10,Specialty Pharmacy,Fulfilled
+647,157,24,2025-10-31,11,Hospital,Fulfilled
+648,136,7,2024-03-26,16,Hospital,Fulfilled
+649,58,12,2026-03-22,12,Retail Pharmacy,Fulfilled
+650,22,16,2026-09-05,28,Specialty Pharmacy,Fulfilled
+651,24,5,2026-02-19,3,Retail Pharmacy,Fulfilled
+652,128,11,2024-12-06,31,Hospital,Fulfilled
+653,79,22,2025-06-23,2,Hospital,Fulfilled
+654,92,20,2025-09-13,3,Hospital,Fulfilled
+655,159,17,2025-03-30,16,Retail Pharmacy,Fulfilled
+656,131,2,2024-11-17,17,Retail Pharmacy,Fulfilled
+657,24,6,2026-06-24,2,Specialty Pharmacy,Fulfilled
+658,53,11,2026-08-01,2,Retail Pharmacy,Fulfilled
+659,13,9,2024-01-09,35,Hospital,Pending
+660,85,12,2025-09-05,34,Retail Pharmacy,Fulfilled
+661,152,19,2026-08-16,15,Retail Pharmacy,Fulfilled
+662,152,17,2024-05-30,10,Hospital,Fulfilled
+663,64,22,2025-10-18,22,Retail Pharmacy,Fulfilled
+664,29,18,2025-01-22,1,Specialty Pharmacy,Fulfilled
+665,177,19,2026-01-28,29,Specialty Pharmacy,Fulfilled
+666,171,5,2024-09-07,7,Hospital,Pending
+667,91,7,2024-12-12,13,Specialty Pharmacy,Pending
+668,45,15,2026-05-19,5,Retail Pharmacy,Fulfilled
+669,170,19,2025-09-30,13,Specialty Pharmacy,Pending
+670,31,6,2024-02-12,17,Retail Pharmacy,Fulfilled
+671,131,3,2024-04-06,22,Retail Pharmacy,Fulfilled
+672,44,12,2026-10-13,35,Specialty Pharmacy,Fulfilled
+673,66,2,2026-09-10,32,Retail Pharmacy,Fulfilled
+674,162,1,2024-12-19,17,Retail Pharmacy,Fulfilled
+675,168,9,2025-12-26,34,Retail Pharmacy,Cancelled
+676,94,18,2026-05-19,40,Specialty Pharmacy,Fulfilled
+677,130,19,2024-09-18,13,Hospital,Fulfilled
+678,120,11,2026-04-01,36,Retail Pharmacy,Pending
+679,149,6,2026-03-11,17,Specialty Pharmacy,Fulfilled
+680,54,15,2026-01-21,19,Specialty Pharmacy,Fulfilled
+681,37,16,2024-02-28,11,Specialty Pharmacy,Fulfilled
+682,8,17,2024-07-25,20,Hospital,Fulfilled
+683,1,18,2025-04-14,25,Hospital,Fulfilled
+684,27,5,2025-09-22,5,Retail Pharmacy,Fulfilled
+685,70,17,2026-07-07,13,Retail Pharmacy,Pending
+686,123,12,2026-02-20,9,Specialty Pharmacy,Fulfilled
+687,104,5,2026-07-09,35,Specialty Pharmacy,Fulfilled
+688,170,20,2026-06-28,21,Specialty Pharmacy,Pending
+689,132,16,2026-08-02,16,Hospital,Fulfilled
+690,45,21,2024-10-08,12,Specialty Pharmacy,Fulfilled
+691,145,13,2026-03-31,35,Hospital,Fulfilled
+692,23,5,2025-09-27,19,Retail Pharmacy,Fulfilled
+693,109,17,2024-09-28,38,Retail Pharmacy,Fulfilled
+694,151,8,2026-04-13,15,Specialty Pharmacy,Pending
+695,112,21,2025-03-09,14,Retail Pharmacy,Fulfilled
+696,149,5,2024-08-29,32,Hospital,Cancelled
+697,2,21,2026-08-23,29,Hospital,Cancelled
+698,40,6,2026-03-11,2,Specialty Pharmacy,Cancelled
+699,52,5,2024-05-24,15,Retail Pharmacy,Fulfilled
+700,75,1,2026-06-10,6,Specialty Pharmacy,Pending
+701,66,1,2026-06-19,12,Retail Pharmacy,Fulfilled
+702,140,2,2024-11-08,31,Retail Pharmacy,Fulfilled
+703,10,10,2025-10-04,4,Retail Pharmacy,Cancelled
+704,106,19,2025-08-25,3,Hospital,Pending
+705,33,20,2026-05-19,15,Specialty Pharmacy,Fulfilled
+706,176,24,2025-04-19,30,Hospital,Fulfilled
+707,161,4,2026-08-13,39,Specialty Pharmacy,Fulfilled
+708,38,20,2026-09-04,37,Specialty Pharmacy,Pending
+709,164,4,2024-07-29,39,Specialty Pharmacy,Fulfilled
+710,117,5,2025-09-09,30,Hospital,Fulfilled
+711,111,21,2025-01-22,37,Specialty Pharmacy,Fulfilled
+712,124,3,2025-04-03,9,Hospital,Fulfilled
+713,175,6,2026-06-27,23,Hospital,Fulfilled
+714,110,13,2026-10-03,4,Specialty Pharmacy,Fulfilled
+715,67,13,2025-01-14,30,Retail Pharmacy,Fulfilled
+716,66,1,2025-10-04,17,Hospital,Fulfilled
+717,163,19,2024-01-05,32,Specialty Pharmacy,Fulfilled
+718,167,10,2024-06-26,10,Specialty Pharmacy,Fulfilled
+719,79,23,2024-04-12,5,Specialty Pharmacy,Fulfilled
+720,47,6,2025-04-18,17,Specialty Pharmacy,Fulfilled
+721,174,18,2024-06-19,28,Retail Pharmacy,Cancelled
+722,122,22,2024-09-19,7,Retail Pharmacy,Fulfilled
+723,12,9,2024-11-28,30,Hospital,Fulfilled
+724,42,16,2024-05-27,1,Specialty Pharmacy,Fulfilled
+725,80,23,2026-08-24,26,Retail Pharmacy,Fulfilled
+726,17,13,2026-03-17,10,Hospital,Pending
+727,101,9,2026-08-20,3,Retail Pharmacy,Pending
+728,130,10,2026-07-28,1,Retail Pharmacy,Fulfilled
+729,170,17,2024-10-24,2,Retail Pharmacy,Fulfilled
+730,136,8,2024-06-03,33,Hospital,Fulfilled
+731,58,11,2025-08-26,39,Hospital,Pending
+732,101,12,2024-07-06,32,Specialty Pharmacy,Cancelled
+733,146,10,2026-09-30,3,Hospital,Fulfilled
+734,95,5,2025-10-24,26,Retail Pharmacy,Fulfilled
+735,108,8,2025-07-31,10,Hospital,Fulfilled
+736,40,5,2026-01-17,19,Retail Pharmacy,Fulfilled
+737,147,24,2026-06-24,26,Retail Pharmacy,Fulfilled
+738,44,9,2026-09-28,3,Hospital,Fulfilled
+739,99,13,2025-04-18,17,Hospital,Fulfilled
+740,124,2,2025-03-22,35,Hospital,Fulfilled
+741,22,16,2026-03-08,16,Retail Pharmacy,Fulfilled
+742,23,7,2024-03-28,27,Specialty Pharmacy,Fulfilled
+743,70,22,2024-12-15,14,Hospital,Fulfilled
+744,171,3,2026-06-28,2,Specialty Pharmacy,Pending
+745,34,1,2024-03-27,9,Hospital,Cancelled
+746,94,19,2025-11-29,30,Retail Pharmacy,Fulfilled
+747,1,3,2025-12-10,33,Specialty Pharmacy,Fulfilled
+748,179,10,2026-08-08,36,Specialty Pharmacy,Fulfilled
+749,154,9,2026-06-21,38,Hospital,Cancelled
+750,73,2,2024-07-14,36,Specialty Pharmacy,Fulfilled
+751,4,2,2025-10-17,39,Retail Pharmacy,Fulfilled
+752,126,24,2024-10-11,28,Hospital,Pending
+753,15,13,2026-06-03,19,Retail Pharmacy,Fulfilled
+754,93,17,2024-07-24,8,Specialty Pharmacy,Pending
+755,35,19,2024-12-01,38,Hospital,Pending
+756,166,24,2026-08-23,24,Specialty Pharmacy,Fulfilled
+757,8,17,2024-01-18,8,Hospital,Fulfilled
+758,17,15,2025-05-27,3,Specialty Pharmacy,Fulfilled
+759,158,15,2024-05-12,16,Specialty Pharmacy,Fulfilled
+760,63,6,2026-06-06,33,Retail Pharmacy,Pending
+761,106,20,2026-08-13,28,Retail Pharmacy,Pending
+762,61,7,2025-01-20,36,Retail Pharmacy,Fulfilled
+763,84,1,2025-07-10,28,Specialty Pharmacy,Fulfilled
+764,171,6,2025-01-14,38,Retail Pharmacy,Fulfilled
+765,99,14,2025-02-20,34,Hospital,Fulfilled
+766,81,16,2025-11-15,12,Retail Pharmacy,Pending
+767,117,5,2024-08-01,13,Retail Pharmacy,Fulfilled
+768,174,18,2025-12-09,24,Hospital,Fulfilled
+769,31,7,2024-10-09,1,Retail Pharmacy,Pending
+770,122,2,2024-09-27,9,Hospital,Fulfilled
+771,85,11,2024-04-01,29,Specialty Pharmacy,Pending
+772,170,17,2025-07-20,1,Retail Pharmacy,Fulfilled
+773,77,13,2026-08-08,11,Specialty Pharmacy,Cancelled
+774,86,14,2026-01-01,27,Retail Pharmacy,Fulfilled
+775,117,8,2025-02-24,23,Retail Pharmacy,Fulfilled
+776,66,1,2024-02-08,19,Hospital,Fulfilled
+777,31,7,2025-07-05,2,Specialty Pharmacy,Fulfilled
+778,103,14,2026-06-05,16,Specialty Pharmacy,Fulfilled
+779,104,9,2025-06-15,27,Hospital,Fulfilled
+780,170,18,2025-09-12,22,Specialty Pharmacy,Fulfilled
+781,64,24,2025-12-04,34,Specialty Pharmacy,Cancelled
+782,41,2,2024-09-16,7,Hospital,Cancelled
+783,15,15,2025-08-13,1,Specialty Pharmacy,Pending
+784,34,3,2025-04-18,18,Specialty Pharmacy,Fulfilled
+785,117,6,2024-10-09,28,Hospital,Fulfilled
+786,4,14,2024-04-02,9,Specialty Pharmacy,Fulfilled
+787,114,17,2026-05-04,2,Retail Pharmacy,Fulfilled
+788,47,6,2024-08-02,2,Retail Pharmacy,Cancelled
+789,92,19,2026-07-20,33,Retail Pharmacy,Fulfilled
+790,109,20,2026-04-16,6,Hospital,Fulfilled
+791,17,15,2026-02-25,29,Specialty Pharmacy,Fulfilled
+792,81,15,2025-09-17,35,Specialty Pharmacy,Fulfilled
+793,128,12,2025-11-20,28,Hospital,Fulfilled
+794,149,8,2025-09-08,26,Retail Pharmacy,Fulfilled
+795,122,16,2025-05-21,23,Retail Pharmacy,Cancelled
+796,119,8,2025-03-09,2,Retail Pharmacy,Fulfilled
+797,146,12,2024-06-15,31,Hospital,Fulfilled
+798,120,10,2024-09-17,36,Specialty Pharmacy,Fulfilled
+799,108,5,2026-01-04,24,Retail Pharmacy,Fulfilled
+800,116,19,2026-08-11,30,Retail Pharmacy,Fulfilled
+801,89,1,2025-01-02,15,Specialty Pharmacy,Fulfilled
+802,132,14,2024-10-08,20,Specialty Pharmacy,Fulfilled
+803,37,16,2025-09-06,16,Specialty Pharmacy,Fulfilled
+804,30,20,2026-07-23,4,Specialty Pharmacy,Fulfilled
+805,46,18,2026-07-09,10,Specialty Pharmacy,Fulfilled
+806,28,8,2024-12-23,19,Retail Pharmacy,Fulfilled
+807,65,20,2025-08-06,19,Specialty Pharmacy,Fulfilled
+808,156,5,2026-09-16,13,Specialty Pharmacy,Fulfilled
+809,110,15,2024-12-13,6,Hospital,Pending
+810,81,16,2024-04-04,6,Retail Pharmacy,Fulfilled
+811,148,20,2025-10-29,32,Retail Pharmacy,Fulfilled
+812,36,4,2025-12-11,37,Retail Pharmacy,Cancelled
+813,119,7,2024-08-21,10,Hospital,Pending
+814,96,17,2024-01-09,9,Specialty Pharmacy,Fulfilled
+815,96,5,2025-08-11,35,Specialty Pharmacy,Fulfilled
+816,54,15,2025-11-02,37,Specialty Pharmacy,Fulfilled
+817,131,2,2025-07-28,32,Specialty Pharmacy,Fulfilled
+818,114,17,2025-01-06,11,Specialty Pharmacy,Fulfilled
+819,43,6,2025-08-24,17,Retail Pharmacy,Fulfilled
+820,155,18,2024-03-10,32,Retail Pharmacy,Fulfilled
+821,51,17,2025-01-20,40,Retail Pharmacy,Cancelled
+822,69,20,2024-10-03,26,Hospital,Pending
+823,23,5,2025-05-24,1,Hospital,Fulfilled
+824,121,11,2025-03-09,39,Specialty Pharmacy,Fulfilled
+825,156,6,2026-04-08,34,Retail Pharmacy,Fulfilled
+826,84,2,2025-05-11,37,Specialty Pharmacy,Pending
+827,127,20,2024-07-21,7,Specialty Pharmacy,Fulfilled
+828,104,12,2026-02-04,16,Specialty Pharmacy,Pending
+829,73,1,2025-05-30,40,Retail Pharmacy,Fulfilled
+830,110,13,2026-07-01,37,Retail Pharmacy,Fulfilled
+831,154,9,2025-04-10,1,Hospital,Fulfilled
+832,136,7,2025-10-21,1,Specialty Pharmacy,Fulfilled
+833,5,23,2025-02-26,22,Specialty Pharmacy,Fulfilled
+834,163,20,2024-08-03,35,Specialty Pharmacy,Fulfilled
+835,159,20,2024-12-16,37,Specialty Pharmacy,Fulfilled
+836,113,3,2024-10-02,16,Hospital,Pending
+837,146,11,2025-03-05,9,Hospital,Fulfilled
+838,155,19,2026-02-25,14,Specialty Pharmacy,Fulfilled
+839,162,2,2026-09-15,27,Retail Pharmacy,Cancelled
+840,45,14,2024-04-28,26,Hospital,Fulfilled
+841,108,7,2025-09-30,13,Retail Pharmacy,Fulfilled
+842,66,2,2026-06-13,20,Retail Pharmacy,Fulfilled
+843,125,9,2026-06-04,28,Specialty Pharmacy,Fulfilled
+844,157,23,2025-02-13,3,Retail Pharmacy,Fulfilled
+845,83,14,2026-06-28,29,Hospital,Fulfilled
+846,119,8,2025-04-10,22,Specialty Pharmacy,Fulfilled
+847,92,18,2026-10-03,34,Retail Pharmacy,Fulfilled
+848,127,19,2025-10-26,39,Specialty Pharmacy,Fulfilled
+849,111,23,2026-01-20,37,Retail Pharmacy,Fulfilled
+850,154,12,2024-08-22,8,Retail Pharmacy,Fulfilled
+851,80,24,2026-03-14,34,Hospital,Fulfilled
+852,95,7,2024-09-07,12,Hospital,Fulfilled
+853,142,4,2024-03-23,13,Hospital,Fulfilled
+854,114,18,2024-02-26,40,Specialty Pharmacy,Fulfilled
+855,143,21,2024-11-17,18,Hospital,Fulfilled
+856,20,11,2026-05-12,4,Specialty Pharmacy,Fulfilled
+857,31,5,2024-05-02,10,Retail Pharmacy,Fulfilled
+858,97,21,2024-07-25,10,Retail Pharmacy,Fulfilled
+859,163,20,2024-03-16,24,Specialty Pharmacy,Pending
+860,29,18,2024-12-26,22,Retail Pharmacy,Pending
+861,10,12,2024-09-29,16,Specialty Pharmacy,Fulfilled
+862,101,9,2024-12-23,25,Hospital,Fulfilled
+863,109,17,2025-06-15,3,Retail Pharmacy,Fulfilled
+864,95,7,2024-06-01,23,Hospital,Fulfilled
+865,177,19,2026-09-06,16,Retail Pharmacy,Fulfilled
+866,171,13,2024-06-26,32,Hospital,Fulfilled
+867,37,15,2026-01-25,7,Hospital,Fulfilled
+868,61,7,2026-07-02,39,Retail Pharmacy,Fulfilled
+869,135,5,2025-12-15,29,Retail Pharmacy,Fulfilled
+870,47,5,2025-02-09,30,Specialty Pharmacy,Fulfilled
+871,122,9,2026-05-30,39,Hospital,Fulfilled
+872,6,18,2025-05-26,3,Retail Pharmacy,Pending
+873,110,14,2025-10-08,11,Specialty Pharmacy,Fulfilled
+874,92,17,2024-09-06,9,Specialty Pharmacy,Fulfilled
+875,55,23,2026-08-08,3,Hospital,Fulfilled
+876,54,14,2024-09-12,24,Retail Pharmacy,Fulfilled
+877,29,17,2026-04-12,27,Hospital,Fulfilled
+878,101,12,2025-12-08,11,Specialty Pharmacy,Fulfilled
+879,76,11,2026-07-11,30,Retail Pharmacy,Cancelled
+880,40,6,2025-08-17,32,Hospital,Fulfilled
+881,41,1,2026-04-17,19,Retail Pharmacy,Fulfilled
+882,120,9,2026-05-18,15,Retail Pharmacy,Fulfilled
+883,25,10,2024-10-29,23,Hospital,Pending
+884,1,16,2026-04-11,8,Specialty Pharmacy,Fulfilled
+885,100,3,2025-11-27,2,Retail Pharmacy,Fulfilled
+886,133,18,2026-01-26,36,Specialty Pharmacy,Fulfilled
+887,167,9,2024-05-08,29,Retail Pharmacy,Fulfilled
+888,100,4,2025-11-24,27,Retail Pharmacy,Fulfilled
+889,100,2,2026-08-08,14,Hospital,Fulfilled
+890,139,14,2025-05-27,40,Specialty Pharmacy,Fulfilled
+891,160,8,2026-05-31,39,Hospital,Fulfilled
+892,33,19,2025-08-06,13,Specialty Pharmacy,Fulfilled
+893,119,6,2024-10-01,11,Retail Pharmacy,Cancelled
+894,114,17,2026-09-03,30,Hospital,Fulfilled
+895,117,6,2025-05-21,39,Hospital,Fulfilled
+896,175,7,2025-11-13,37,Specialty Pharmacy,Fulfilled
+897,12,9,2024-01-19,30,Hospital,Cancelled
+898,167,10,2026-05-01,28,Retail Pharmacy,Cancelled
+899,136,8,2024-01-16,16,Hospital,Fulfilled
+900,78,2,2026-06-29,14,Hospital,Fulfilled
+901,12,10,2025-03-17,21,Retail Pharmacy,Cancelled
+902,134,24,2024-02-27,13,Hospital,Pending
+903,49,17,2025-06-07,30,Specialty Pharmacy,Fulfilled
+904,64,24,2025-03-26,11,Specialty Pharmacy,Fulfilled
+905,165,19,2026-04-29,2,Retail Pharmacy,Fulfilled
+906,54,16,2025-04-27,13,Specialty Pharmacy,Cancelled
+907,81,13,2025-02-14,7,Retail Pharmacy,Fulfilled
+908,150,19,2026-06-27,3,Specialty Pharmacy,Fulfilled
+909,27,7,2025-05-03,17,Retail Pharmacy,Fulfilled
+910,42,14,2025-09-05,34,Specialty Pharmacy,Pending
+911,129,24,2026-06-01,24,Retail Pharmacy,Fulfilled
+912,77,14,2026-01-05,26,Retail Pharmacy,Fulfilled
+913,176,21,2024-10-01,28,Hospital,Cancelled
+914,164,4,2026-07-09,31,Retail Pharmacy,Fulfilled
+915,92,19,2024-08-28,36,Hospital,Fulfilled
+916,119,6,2026-07-23,19,Hospital,Fulfilled
+917,173,16,2024-10-24,10,Hospital,Cancelled
+918,118,7,2024-03-04,35,Hospital,Pending
+919,110,16,2026-04-16,8,Hospital,Fulfilled
+920,12,10,2026-08-07,23,Specialty Pharmacy,Fulfilled
+921,55,24,2026-08-10,19,Specialty Pharmacy,Fulfilled
+922,46,17,2024-01-22,20,Hospital,Pending
+923,3,18,2026-04-15,19,Specialty Pharmacy,Pending
+924,176,24,2025-04-03,23,Retail Pharmacy,Fulfilled
+925,86,16,2026-04-27,26,Hospital,Fulfilled
+926,91,5,2025-09-26,29,Hospital,Fulfilled
+927,74,1,2024-11-14,33,Hospital,Fulfilled
+928,148,18,2026-04-11,34,Specialty Pharmacy,Pending
+929,39,13,2024-09-26,3,Specialty Pharmacy,Fulfilled
+930,169,9,2024-05-22,21,Specialty Pharmacy,Fulfilled
+931,5,21,2025-08-23,27,Specialty Pharmacy,Fulfilled
+932,98,10,2024-09-21,2,Hospital,Pending
+933,75,4,2025-05-28,11,Hospital,Pending
+934,5,23,2024-02-13,9,Retail Pharmacy,Fulfilled
+935,24,7,2026-07-22,37,Specialty Pharmacy,Fulfilled
+936,26,19,2025-01-28,21,Hospital,Fulfilled
+937,28,8,2025-07-21,37,Hospital,Fulfilled
+938,45,8,2026-03-15,32,Specialty Pharmacy,Fulfilled
+939,171,7,2026-07-24,3,Hospital,Fulfilled
+940,33,18,2024-06-11,10,Specialty Pharmacy,Fulfilled
+941,22,15,2025-12-13,13,Retail Pharmacy,Fulfilled
+942,30,20,2025-09-05,38,Specialty Pharmacy,Fulfilled
+943,8,17,2026-04-12,28,Specialty Pharmacy,Pending
+944,23,6,2025-05-16,26,Retail Pharmacy,Fulfilled
+945,79,24,2025-11-05,39,Specialty Pharmacy,Fulfilled
+946,35,19,2026-04-30,40,Retail Pharmacy,Fulfilled
+947,60,19,2025-12-27,17,Specialty Pharmacy,Fulfilled
+948,168,9,2025-03-28,20,Retail Pharmacy,Fulfilled
+949,102,17,2025-05-15,19,Hospital,Fulfilled
+950,36,2,2024-06-22,30,Hospital,Fulfilled
+951,141,11,2025-12-07,34,Specialty Pharmacy,Pending
+952,115,21,2024-04-14,5,Specialty Pharmacy,Cancelled
+953,163,19,2025-06-19,33,Retail Pharmacy,Fulfilled
+954,143,22,2024-05-04,33,Hospital,Fulfilled
+955,66,3,2025-05-13,28,Specialty Pharmacy,Fulfilled
+956,104,11,2025-03-28,3,Retail Pharmacy,Fulfilled
+957,136,7,2025-05-01,2,Retail Pharmacy,Fulfilled
+958,60,20,2025-11-25,22,Retail Pharmacy,Pending
+959,46,20,2025-11-06,31,Retail Pharmacy,Fulfilled
+960,52,7,2024-03-15,15,Retail Pharmacy,Pending
+961,114,17,2024-12-23,30,Specialty Pharmacy,Pending
+962,151,8,2025-02-15,13,Specialty Pharmacy,Fulfilled
+963,149,7,2026-09-24,10,Hospital,Fulfilled
+964,147,21,2026-08-25,19,Retail Pharmacy,Fulfilled
+965,99,14,2024-01-13,18,Specialty Pharmacy,Fulfilled
+966,46,19,2026-09-28,11,Retail Pharmacy,Fulfilled
+967,57,4,2026-01-02,21,Specialty Pharmacy,Fulfilled
+968,33,17,2026-07-19,34,Retail Pharmacy,Pending
+969,49,18,2026-06-30,29,Hospital,Fulfilled
+970,135,5,2026-09-09,19,Hospital,Fulfilled
+971,147,24,2026-08-31,31,Retail Pharmacy,Fulfilled
+972,37,14,2025-02-08,3,Specialty Pharmacy,Fulfilled
+973,8,17,2024-02-25,14,Retail Pharmacy,Cancelled
+974,112,22,2024-03-01,38,Specialty Pharmacy,Fulfilled
+975,167,11,2024-11-29,6,Specialty Pharmacy,Fulfilled
+976,110,14,2026-04-29,4,Specialty Pharmacy,Fulfilled
+977,16,11,2026-10-01,25,Specialty Pharmacy,Fulfilled
+978,64,23,2025-01-24,5,Specialty Pharmacy,Fulfilled
+979,36,4,2025-07-02,8,Hospital,Pending
+980,168,11,2024-03-24,35,Specialty Pharmacy,Fulfilled
+981,19,23,2025-08-02,40,Specialty Pharmacy,Fulfilled
+982,160,6,2025-01-28,35,Retail Pharmacy,Fulfilled
+983,135,5,2026-06-06,7,Hospital,Fulfilled
+984,116,20,2024-01-30,12,Retail Pharmacy,Fulfilled
+985,127,18,2026-06-22,14,Retail Pharmacy,Fulfilled
+986,121,11,2024-12-24,11,Specialty Pharmacy,Pending
+987,34,1,2025-02-24,37,Hospital,Fulfilled
+988,118,18,2025-03-08,35,Hospital,Fulfilled
+989,161,3,2024-10-17,13,Hospital,Pending
+990,134,23,2025-04-07,12,Retail Pharmacy,Fulfilled
+991,35,19,2024-09-05,13,Specialty Pharmacy,Pending
+992,62,8,2025-02-15,33,Hospital,Fulfilled
+993,132,13,2024-09-26,12,Retail Pharmacy,Fulfilled
+994,175,8,2024-03-30,13,Retail Pharmacy,Fulfilled
+995,149,8,2025-06-21,18,Hospital,Fulfilled
+996,109,20,2025-05-12,27,Retail Pharmacy,Fulfilled
+997,41,3,2024-04-02,25,Hospital,Fulfilled
+998,162,2,2025-01-11,13,Retail Pharmacy,Pending
+999,175,6,2026-04-01,1,Specialty Pharmacy,Fulfilled
+1000,60,19,2026-02-11,27,Retail Pharmacy,Pending
+1001,176,21,2025-04-07,5,Retail Pharmacy,Fulfilled
+1002,110,13,2026-01-03,25,Retail Pharmacy,Pending
+1003,180,10,2024-10-23,15,Retail Pharmacy,Cancelled
+1004,164,1,2025-07-10,23,Specialty Pharmacy,Pending
+1005,161,1,2024-07-08,12,Retail Pharmacy,Fulfilled
+1006,159,18,2025-04-12,18,Hospital,Fulfilled
+1007,4,8,2025-10-01,12,Hospital,Fulfilled
+1008,160,5,2025-11-09,3,Specialty Pharmacy,Fulfilled
+1009,82,2,2026-09-27,39,Hospital,Fulfilled
+1010,167,11,2024-08-29,14,Retail Pharmacy,Fulfilled
+1011,3,18,2024-03-16,30,Hospital,Fulfilled
+1012,110,13,2025-08-31,10,Retail Pharmacy,Fulfilled
+1013,103,3,2025-07-30,36,Hospital,Fulfilled
+1014,28,5,2024-04-03,20,Hospital,Fulfilled
+1015,169,12,2025-07-17,38,Hospital,Fulfilled
+1016,75,3,2024-03-27,20,Specialty Pharmacy,Fulfilled
+1017,86,15,2026-01-24,4,Hospital,Fulfilled
+1018,162,1,2024-03-25,18,Hospital,Fulfilled
+1019,71,2,2025-09-06,29,Hospital,Fulfilled
+1020,82,3,2024-04-21,33,Specialty Pharmacy,Fulfilled
+1021,5,23,2024-10-23,40,Retail Pharmacy,Fulfilled
+1022,105,7,2024-10-06,21,Hospital,Pending
+1023,172,15,2024-10-19,31,Specialty Pharmacy,Fulfilled
+1024,30,17,2024-05-17,3,Hospital,Fulfilled
+1025,9,23,2026-05-10,11,Specialty Pharmacy,Pending
+1026,116,18,2025-03-05,25,Retail Pharmacy,Cancelled
+1027,106,18,2024-01-30,15,Hospital,Cancelled
+1028,164,2,2026-05-18,11,Hospital,Fulfilled
+1029,127,20,2024-07-04,38,Hospital,Cancelled
+1030,111,21,2024-12-05,3,Specialty Pharmacy,Pending
+1031,114,18,2026-02-18,2,Retail Pharmacy,Fulfilled
+1032,80,21,2025-04-01,29,Retail Pharmacy,Fulfilled
+1033,14,12,2024-02-02,37,Retail Pharmacy,Fulfilled
+1034,6,18,2026-07-11,16,Hospital,Fulfilled
+1035,169,12,2024-02-25,12,Hospital,Fulfilled
+1036,39,14,2026-08-29,20,Retail Pharmacy,Fulfilled
+1037,8,17,2026-03-21,13,Retail Pharmacy,Fulfilled
+1038,41,2,2024-05-15,9,Hospital,Fulfilled
+1039,24,7,2024-03-17,13,Hospital,Fulfilled
+1040,62,6,2024-10-19,17,Specialty Pharmacy,Fulfilled
+1041,83,14,2026-10-20,21,Specialty Pharmacy,Fulfilled
+1042,180,9,2026-07-31,22,Specialty Pharmacy,Fulfilled
+1043,123,4,2026-07-02,31,Specialty Pharmacy,Fulfilled
+1044,84,2,2024-06-12,36,Hospital,Fulfilled
+1045,173,13,2025-10-24,2,Retail Pharmacy,Pending
+1046,87,21,2024-08-18,28,Hospital,Fulfilled
+1047,61,8,2026-04-14,10,Hospital,Cancelled
+1048,23,5,2026-05-12,38,Specialty Pharmacy,Fulfilled
+1049,119,5,2026-08-27,39,Specialty Pharmacy,Fulfilled
+1050,172,13,2025-10-23,20,Retail Pharmacy,Fulfilled
+1051,131,2,2025-10-25,28,Hospital,Fulfilled
+1052,3,19,2025-11-27,15,Hospital,Fulfilled
+1053,167,12,2024-04-26,1,Specialty Pharmacy,Cancelled
+1054,29,20,2024-06-20,24,Specialty Pharmacy,Fulfilled
+1055,60,17,2025-11-15,18,Hospital,Cancelled
+1056,165,20,2024-06-21,40,Retail Pharmacy,Pending
+1057,45,19,2025-08-22,3,Specialty Pharmacy,Fulfilled
+1058,16,12,2026-02-23,32,Hospital,Fulfilled
+1059,94,19,2025-11-22,35,Retail Pharmacy,Fulfilled
+1060,159,19,2024-12-19,18,Hospital,Fulfilled
+1061,162,3,2026-10-05,25,Specialty Pharmacy,Fulfilled
+1062,40,5,2024-04-27,26,Hospital,Fulfilled
+1063,91,5,2025-12-01,29,Hospital,Fulfilled
+1064,115,24,2025-05-26,30,Hospital,Fulfilled
+1065,85,12,2025-12-16,14,Specialty Pharmacy,Fulfilled
+1066,130,8,2024-03-14,33,Specialty Pharmacy,Fulfilled
+1067,56,3,2025-08-27,25,Retail Pharmacy,Fulfilled
+1068,57,4,2025-08-20,27,Specialty Pharmacy,Pending
+1069,2,22,2024-02-25,24,Retail Pharmacy,Fulfilled
+1070,96,6,2026-02-04,38,Retail Pharmacy,Pending
+1071,130,8,2024-03-06,4,Retail Pharmacy,Fulfilled
+1072,135,6,2024-01-30,24,Retail Pharmacy,Fulfilled
+1073,15,16,2024-02-26,28,Hospital,Fulfilled
+1074,155,19,2025-12-16,20,Specialty Pharmacy,Fulfilled
+1075,84,3,2025-06-01,16,Specialty Pharmacy,Fulfilled
+1076,48,24,2025-09-26,2,Hospital,Fulfilled
+1077,92,18,2026-01-05,6,Retail Pharmacy,Cancelled
+1078,67,13,2024-12-15,40,Retail Pharmacy,Fulfilled
+1079,174,19,2024-03-17,3,Hospital,Pending
+1080,57,2,2024-01-02,40,Hospital,Pending
+1081,107,11,2025-12-21,16,Specialty Pharmacy,Fulfilled
+1082,31,8,2026-05-14,28,Retail Pharmacy,Fulfilled
+1083,139,16,2026-09-06,20,Specialty Pharmacy,Fulfilled
+1084,175,7,2026-04-02,34,Hospital,Fulfilled
+1085,151,8,2024-07-03,19,Hospital,Fulfilled
+1086,56,2,2026-03-01,1,Specialty Pharmacy,Fulfilled
+1087,3,19,2024-08-09,6,Specialty Pharmacy,Fulfilled
+1088,14,9,2025-04-06,10,Specialty Pharmacy,Fulfilled
+1089,113,9,2024-08-01,9,Specialty Pharmacy,Fulfilled
+1090,68,2,2024-05-13,29,Specialty Pharmacy,Fulfilled
+1091,117,7,2025-10-03,4,Retail Pharmacy,Fulfilled
+1092,127,20,2024-11-14,30,Retail Pharmacy,Pending
+1093,142,1,2025-12-11,11,Hospital,Fulfilled
+1094,48,24,2025-11-04,39,Retail Pharmacy,Fulfilled
+1095,39,15,2024-07-31,32,Specialty Pharmacy,Fulfilled
+1096,68,3,2024-12-09,6,Specialty Pharmacy,Fulfilled
+1097,146,12,2026-03-02,8,Hospital,Fulfilled
+1098,143,24,2024-04-02,33,Hospital,Fulfilled
+1099,141,8,2025-10-13,19,Hospital,Fulfilled
+1100,32,9,2025-04-13,22,Retail Pharmacy,Fulfilled
+1101,155,18,2025-03-27,40,Specialty Pharmacy,Fulfilled
+1102,145,14,2024-03-17,27,Hospital,Cancelled
+1103,20,12,2026-09-28,34,Hospital,Fulfilled
+1104,76,11,2024-01-28,30,Retail Pharmacy,Fulfilled
+1105,174,19,2026-08-02,23,Hospital,Fulfilled
+1106,179,10,2024-04-19,30,Specialty Pharmacy,Fulfilled
+1107,158,20,2025-05-18,10,Hospital,Fulfilled
+1108,135,6,2024-05-09,12,Retail Pharmacy,Pending
+1109,102,2,2025-01-15,6,Specialty Pharmacy,Fulfilled
+1110,70,10,2024-01-17,3,Retail Pharmacy,Fulfilled
+1111,170,19,2024-05-02,40,Hospital,Pending
+1112,68,4,2026-09-24,13,Hospital,Pending
+1113,176,21,2024-10-10,38,Specialty Pharmacy,Fulfilled
+1114,20,10,2026-02-10,20,Specialty Pharmacy,Fulfilled
+1115,77,15,2025-06-12,33,Retail Pharmacy,Fulfilled
+1116,97,21,2025-09-29,15,Hospital,Fulfilled
+1117,117,7,2024-11-04,11,Retail Pharmacy,Fulfilled
+1118,177,17,2025-11-29,24,Retail Pharmacy,Pending
+1119,155,19,2026-08-23,18,Specialty Pharmacy,Fulfilled
+1120,35,19,2024-09-28,1,Hospital,Fulfilled
+1121,66,2,2026-05-27,6,Hospital,Fulfilled
+1122,26,18,2025-01-23,17,Retail Pharmacy,Fulfilled
+1123,47,5,2026-02-23,10,Hospital,Pending
+1124,146,9,2026-07-01,6,Hospital,Cancelled
+1125,2,23,2025-12-08,5,Specialty Pharmacy,Fulfilled
+1126,102,22,2025-05-15,40,Hospital,Pending
+1127,44,11,2025-09-05,16,Retail Pharmacy,Pending
+1128,106,18,2025-10-20,5,Retail Pharmacy,Fulfilled
+1129,134,21,2024-12-19,28,Specialty Pharmacy,Fulfilled
+1130,175,6,2025-08-01,12,Retail Pharmacy,Fulfilled
+1131,119,6,2025-07-08,22,Retail Pharmacy,Fulfilled
+1132,113,14,2024-05-31,31,Retail Pharmacy,Pending
+1133,118,20,2026-05-10,28,Hospital,Pending
+1134,86,13,2026-09-19,30,Specialty Pharmacy,Fulfilled
+1135,113,21,2026-04-26,35,Specialty Pharmacy,Cancelled
+1136,41,2,2025-10-07,3,Specialty Pharmacy,Fulfilled
+1137,17,16,2026-06-28,17,Hospital,Fulfilled
+1138,173,14,2025-02-14,1,Hospital,Fulfilled
+1139,86,14,2025-10-16,9,Retail Pharmacy,Pending
+1140,169,11,2024-09-15,35,Specialty Pharmacy,Fulfilled
+1141,74,4,2025-07-10,32,Hospital,Fulfilled
+1142,111,21,2024-08-09,27,Specialty Pharmacy,Fulfilled
+1143,101,12,2026-05-27,20,Specialty Pharmacy,Fulfilled
+1144,157,24,2026-03-08,26,Specialty Pharmacy,Pending
+1145,33,19,2026-07-25,34,Retail Pharmacy,Fulfilled
+1146,141,9,2024-06-06,9,Hospital,Fulfilled
+1147,169,10,2026-05-29,2,Retail Pharmacy,Fulfilled
+1148,153,23,2025-08-13,9,Specialty Pharmacy,Cancelled
+1149,21,1,2026-08-17,16,Retail Pharmacy,Fulfilled
+1150,119,7,2024-08-14,9,Hospital,Cancelled
+1151,17,15,2026-01-08,3,Hospital,Fulfilled
+1152,59,3,2025-12-08,33,Hospital,Fulfilled
+1153,2,22,2026-07-17,25,Retail Pharmacy,Fulfilled
+1154,56,22,2026-09-02,1,Retail Pharmacy,Fulfilled
+1155,137,8,2024-10-03,40,Hospital,Fulfilled
+1156,155,18,2025-03-11,1,Hospital,Fulfilled
+1157,174,17,2024-02-16,26,Specialty Pharmacy,Pending
+1158,49,18,2025-03-12,5,Hospital,Pending
+1159,62,6,2024-10-21,21,Retail Pharmacy,Pending
+1160,16,11,2024-01-27,17,Hospital,Fulfilled
+1161,122,21,2026-01-06,35,Retail Pharmacy,Fulfilled
+1162,154,11,2024-12-09,22,Specialty Pharmacy,Cancelled
+1163,117,6,2025-06-12,3,Specialty Pharmacy,Fulfilled
+1164,68,4,2024-03-28,9,Hospital,Fulfilled
+1165,27,5,2024-03-30,8,Retail Pharmacy,Cancelled
+1166,86,15,2026-08-05,14,Specialty Pharmacy,Fulfilled
+1167,97,24,2026-01-28,26,Hospital,Fulfilled
+1168,47,6,2024-10-23,26,Hospital,Fulfilled
+1169,144,11,2026-04-20,1,Retail Pharmacy,Pending
+1170,7,1,2025-12-07,13,Retail Pharmacy,Fulfilled
+1171,93,19,2026-06-07,38,Specialty Pharmacy,Pending
+1172,109,20,2025-04-24,14,Hospital,Fulfilled
+1173,43,3,2026-03-13,16,Hospital,Fulfilled
+1174,110,16,2026-08-04,10,Specialty Pharmacy,Fulfilled
+1175,116,18,2024-09-13,15,Specialty Pharmacy,Fulfilled
+1176,161,3,2024-01-21,17,Hospital,Fulfilled
+1177,84,4,2026-04-19,2,Specialty Pharmacy,Fulfilled
+1178,14,11,2025-04-24,10,Specialty Pharmacy,Fulfilled
+1179,36,1,2024-10-21,18,Specialty Pharmacy,Fulfilled
+1180,109,17,2025-10-25,11,Hospital,Fulfilled
+1181,113,22,2024-11-07,20,Retail Pharmacy,Fulfilled
+1182,60,17,2026-03-21,12,Specialty Pharmacy,Fulfilled
+1183,53,10,2026-06-25,22,Hospital,Fulfilled
+1184,176,23,2025-01-13,24,Hospital,Fulfilled
+1185,1,22,2024-12-16,40,Hospital,Cancelled
+1186,48,22,2026-01-10,10,Specialty Pharmacy,Fulfilled
+1187,180,12,2025-03-25,10,Retail Pharmacy,Pending
+1188,156,7,2024-10-07,28,Specialty Pharmacy,Fulfilled
+1189,28,6,2025-12-30,29,Specialty Pharmacy,Fulfilled
+1190,110,15,2025-08-04,30,Retail Pharmacy,Pending
+1191,30,19,2026-07-26,18,Hospital,Fulfilled
+1192,7,2,2025-12-14,17,Hospital,Fulfilled
+1193,66,3,2025-02-11,11,Retail Pharmacy,Fulfilled
+1194,56,15,2024-02-13,31,Hospital,Fulfilled
+1195,61,6,2026-05-15,40,Specialty Pharmacy,Fulfilled
+1196,95,5,2026-02-07,32,Specialty Pharmacy,Fulfilled
+1197,68,4,2025-04-28,19,Hospital,Fulfilled
+1198,158,12,2024-08-11,31,Hospital,Fulfilled
+1199,75,4,2024-11-04,18,Retail Pharmacy,Fulfilled
+1200,64,21,2024-11-13,31,Retail Pharmacy,Fulfilled

@@ -1,0 +1,25 @@
+product_id,product_name,therapeutic_area,dosage_form,unit_price_inr,launch_date,product_status
+1,Oncora,Oncology,Injection,4500,2021-03-04,Active
+2,Tumavex,Oncology,Tablet,650,2020-08-01,Active
+3,Cellunor,Oncology,Tablet,3200,2019-06-24,Active
+4,Immunara,Oncology,Capsule,650,2021-06-17,Active
+5,Cardioval,Cardiology,Capsule,480,2023-09-13,Active
+6,Pressorin,Cardiology,Capsule,4500,2023-01-22,Active
+7,Vasculen,Cardiology,Tablet,1200,2019-08-01,Active
+8,Thrombolex,Cardiology,Oral solution,250,2018-09-10,Active
+9,Glycora,Diabetes,Capsule,2400,2018-09-25,Active
+10,Insulenta,Diabetes,Capsule,3200,2023-10-05,Active
+11,Glucenor,Diabetes,Tablet,480,2022-11-24,Discontinued
+12,Metabrix,Diabetes,Tablet,1750,2023-02-15,Active
+13,Immunexia,Immunology,Capsule,1750,2023-12-03,Active
+14,Autozen,Immunology,Tablet,375,2022-02-28,Active
+15,Inflamora,Immunology,Injection,3200,2020-02-24,Active
+16,Biomune,Immunology,Tablet,375,2022-05-16,Active
+17,Neurovia,Neurology,Oral solution,2400,2025-01-07,Active
+18,Cognirel,Neurology,Tablet,1200,2018-06-19,Discontinued
+19,Seizurix,Neurology,Tablet,2400,2018-05-29,Active
+20,Nervanta,Neurology,Tablet,480,2021-06-01,Active
+21,Pulmora,Respiratory,Tablet,850,2023-04-02,Active
+22,Airvanta,Respiratory,Tablet,250,2021-04-13,Active
+23,Bronchex,Respiratory,Tablet,3200,2018-02-27,Discontinued
+24,Respivon,Respiratory,Injection,1750,2018-03-23,Discontinued

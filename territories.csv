@@ -1,0 +1,17 @@
+territory_id,territory_name,region,state_or_city,market_type,territory_status
+1,Delhi Territory,North,Delhi,Semi-urban,Active
+2,Jaipur Territory,North,Jaipur,Urban,Active
+3,Lucknow Territory,North,Lucknow,Semi-urban,Active
+4,Chandigarh Territory,North,Chandigarh,Metro,Active
+5,Bengaluru Territory,South,Bengaluru,Semi-urban,Active
+6,Chennai Territory,South,Chennai,Urban,Active
+7,Hyderabad Territory,South,Hyderabad,Semi-urban,Active
+8,Kochi Territory,South,Kochi,Semi-urban,Active
+9,Mumbai Territory,West,Mumbai,Semi-urban,Active
+10,Pune Territory,West,Pune,Semi-urban,Active
+11,Ahmedabad Territory,West,Ahmedabad,Semi-urban,Active
+12,Surat Territory,West,Surat,Semi-urban,Active
+13,Kolkata Territory,East,Kolkata,Semi-urban,Active
+14,Bhubaneswar Territory,East,Bhubaneswar,Semi-urban,Active
+15,Patna Territory,East,Patna,Urban,Active
+16,Guwahati Territory,East,Guwahati,Urban,Active
